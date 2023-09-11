@@ -1,10 +1,10 @@
 # BoilerplateJavascriptReactNativeReduxToolkit
 This Project react native expo boilerplate include packages like
--[1] - Redux Toolkit for state management
--[2] - Formik and Yup for schema validation
--[3] - inext and i18next for language translation
--[4] - System driven Dark/Default mode
--[5] - Custom Drawer Navigation
+- [1] - Redux Toolkit for state management
+- [2] - Formik and Yup for schema validation
+- [3] - inext and i18next for language translation
+- [4] - System driven Dark/Default mode
+- [5] - Custom Drawer Navigation
 and others
 
  Initially appeared on
