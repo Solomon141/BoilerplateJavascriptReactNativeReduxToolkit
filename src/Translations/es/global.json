@@ -1,0 +1,25 @@
+{
+  "auth": {
+    "login": "ግባ",
+    "logout": "ይውጡ",
+    "username": "የተጠቃሚ ስም",
+    "password": "የይለፍ ቃል",
+    "forgotpassword": "መክፈቻ ቁልፉን ረሳኽው",
+    "language": "EN",
+    "phonenumber": "ስልክ ቁጥር",
+    "oldpin": "የአሁኑ የይለፍ ቃል",
+    "newpin": "አዲስ የይለፍ ቃል",
+    "confirmnewpin": "አዲስ የይለፍ ቃል ያረጋግጡ"
+  },
+  "stack": {
+    "login": "ግባ",
+    "logout": "ይውጡ",
+    "aboutus": "ስለ እኛ",
+    "home": "ዋና",
+    "profile": "ግላዊ መረጃ",
+    "usageinfo": "የተጠቃሚ መረጃ",
+    "changepin": "የሚስጥር ቁጥር መቀየርያ",
+    "privacypolicy": "ግላዊ መመርያ",
+    "termsconditions": "ውሎች እና ትግበራዎች"
+  }
+}

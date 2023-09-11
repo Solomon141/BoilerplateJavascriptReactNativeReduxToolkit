@@ -1,0 +1,25 @@
+{
+  "auth": {
+    "login": "login",
+    "logout": "logout",
+    "username": "username",
+    "password": "password",
+    "forgotpassword": "Forgot Password",
+    "language": "አማ",
+    "phonenumber": "Phone Number",
+    "oldpin": "Old Password",
+    "newpin": "New Password",
+    "confirmnewpin": "Confirm New Password"
+  },
+  "stack": {
+    "login": "login",
+    "logout": "logout",
+    "aboutus": "About Us",
+    "home": "Home",
+    "profile": "Profile",
+    "usageinfo": "Usage Information",
+    "changepin": "Change Pin",
+    "privacypolicy": "Privacy and Policy",
+    "termsconditions": "Terms and Conditions"
+  }
+}
