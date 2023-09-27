@@ -7,9 +7,12 @@ This Project react native expo boilerplate include packages like
 - [5] - Custom Drawer Navigation
 and others
 
- Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
-
+## DEPENDENCIES
+[1] - redux (https://react-redux.js.org/ and https://redux-toolkit.js.org/)
+        npm install redux @reduxjs/toolkit react-redux
+[2] - npm install redux-persist
+[3] - npm install @react-native-async-storage/async-storage
+ 
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
