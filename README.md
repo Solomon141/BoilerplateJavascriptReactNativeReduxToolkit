@@ -8,10 +8,12 @@ This Project react native expo boilerplate include packages like
 and others
 
 ## DEPENDENCIES
-- [1] - redux (https://react-redux.js.org/ and https://redux-toolkit.js.org/)
+[1] - redux (https://react-redux.js.org/ and https://redux-toolkit.js.org/)
 - npm install redux @reduxjs/toolkit react-redux
-- [2] - npm install redux-persist
-- [3] - npm install @react-native-async-storage/async-storage
+[2] - redux-persist (https://github.com/rt2zz/redux-persist)
+- npm install redux-persist
+[3] - async-storage (https://react-native-async-storage.github.io/async-storage/docs/install/ and https://github.com/react-native-async-storage/async-storage)
+- npm install @react-native-async-storage/async-storage
  
 ## Getting Started
 
