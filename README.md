@@ -25,8 +25,10 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+- Node.js v14.0.0 >=installed on your local machine. [Follow the appropriate tutorial on How to Install Node.js] (https://www.digitalocean.com/community/tutorial-series/how-to-install-node-js-and-create-a-local-development-environment) and Create a Local Development Environment for whatever operating system you are running.
+- Familiarity with [React Native Expo] (https://expo.dev/) and usage of your computer’s terminal.
+- An [Expo account] (https://expo.dev/signup) and expo-cli installed globally. Visit this [Brief Introduction to Expo] (https://www.digitalocean.com/community/tutorials/react-expo-intro) to get started.
+- [Git] (https://git-scm.com/) installed on your local machine and a [GitHub] (https://github.com/) account
 
 ### Installing
 
